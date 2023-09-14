@@ -1,4 +1,4 @@
-# List of UN Security Council Vetoes (1946-2021)
+# List of UN Security Council Vetoes (1946-2022)
 
 Carlos L. Yordan scraped data from the United Nations Dag Hammarskjöld Library's [webpage](https://research.un.org/en/docs/sc/quick/veto) documenting the number of vetoes issued in the Security Council from 194 to September 15, 2022.
 
